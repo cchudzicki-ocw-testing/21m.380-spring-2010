@@ -10,6 +10,5 @@ parent_title: Readings and Listening
 parent_type: CourseSection
 resourcetype: Document
 title: MIT21M_380S10_read_nlcaacs.pdf
-type: OCWFile
 uid: 0d5e3b2b-1270-74e9-c5bb-7fea1a783e31
 ---

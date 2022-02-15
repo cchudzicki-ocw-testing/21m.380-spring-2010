@@ -13,6 +13,5 @@ parent_title: Design Report 1 sample
 parent_type: CourseSection
 resourcetype: Image
 title: Acr24F.jpg
-type: OCWImage
 uid: 0a61e8ba-c3b9-2011-9a28-0d3b5a4213aa
 ---

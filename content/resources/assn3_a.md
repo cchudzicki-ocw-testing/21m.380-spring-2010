@@ -8,6 +8,5 @@ parent_title: Design Report 3 sample
 parent_type: CourseSection
 resourcetype: Other
 title: assn3_a.pd
-type: OCWFile
 uid: 2d1cc967-b575-4900-07c4-c08a85e8e973
 ---

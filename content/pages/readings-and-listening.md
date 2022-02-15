@@ -3,7 +3,6 @@ content_type: page
 learning_resource_types:
 - Readings
 title: Readings and Listening
-type: CourseSection
 uid: 74745b64-4020-efa5-127c-d97d24b9218b
 ---
 

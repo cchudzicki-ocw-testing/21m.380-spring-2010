@@ -9,6 +9,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: MIT21M_380S10_notes.pdf
-type: OCWFile
 uid: db9cf51a-20db-bc9a-15b6-dc737f681138
 ---

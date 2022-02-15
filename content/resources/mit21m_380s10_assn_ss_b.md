@@ -8,6 +8,5 @@ parent_title: 'Project Sample: Genetic Algorithms'
 parent_type: CourseSection
 resourcetype: Document
 title: MIT21M_380S10_assn_ss_b.pdf
-type: OCWFile
 uid: 0f8786ec-dd52-7f69-a018-f7b38f592f0a
 ---

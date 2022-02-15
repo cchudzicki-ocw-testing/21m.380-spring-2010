@@ -5,7 +5,6 @@ parent_title: Assignments and Projects
 parent_type: CourseSection
 parent_uid: 6e81c0bd-4e52-5a46-1f05-35f350963ca7
 title: Design Report 2 sample
-type: CourseSection
 uid: a952b77a-d664-2d41-9db3-6f413aaa2dfa
 ---
 

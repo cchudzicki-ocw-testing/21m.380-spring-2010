@@ -12,6 +12,5 @@ parent_title: "Project Sample: Game of Life \u2013 With Music!"
 parent_type: CourseSection
 resourcetype: Image
 title: gameoflife.jpg
-type: OCWImage
 uid: bbd6bf57-ef5b-c761-3af1-75b45590c400
 ---

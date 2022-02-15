@@ -5,7 +5,6 @@ parent_title: Assignments and Projects
 parent_type: CourseSection
 parent_uid: 6e81c0bd-4e52-5a46-1f05-35f350963ca7
 title: 'Project Sample: Generative Context-free Grammars'
-type: CourseSection
 uid: e0285a65-8bce-669a-777e-a93b6267e32d
 ---
 

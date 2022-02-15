@@ -9,6 +9,5 @@ parent_title: 'Project Sample: Generative Context-free Grammars'
 parent_type: CourseSection
 resourcetype: Other
 title: assn_ss_c_files.zip
-type: OCWFile
 uid: 7de6a29d-9253-96d0-1871-c50cb184b878
 ---

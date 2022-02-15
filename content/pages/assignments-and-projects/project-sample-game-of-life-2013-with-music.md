@@ -5,7 +5,6 @@ parent_title: Assignments and Projects
 parent_type: CourseSection
 parent_uid: 6e81c0bd-4e52-5a46-1f05-35f350963ca7
 title: "Project Sample: Game of Life \u2013 With Music!"
-type: CourseSection
 uid: 6a377018-7047-3fe4-dc22-9f5085ddbe47
 ---
 
