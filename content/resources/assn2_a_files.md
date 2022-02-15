@@ -4,6 +4,7 @@ description: 'This ZIP file contains: 2 .py and 4 .mid files.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010/a191c88ec8a7d9acfa4aa0ff6a0c5050_assn2_a_files.zip
 file_type: application/zip
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Design Report 2 sample
 parent_type: CourseSection
 resourcetype: Other

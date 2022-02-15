@@ -5,6 +5,7 @@ description: This ZIP file contains code files (3 .py and 4 .yaml) and audio sam
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010/7de6a29d925396d01871c50cb184b878_assn_ss_c_files.zip
 file_type: application/zip
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Project Sample: Generative Context-free Grammars'
 parent_type: CourseSection
 resourcetype: Other

@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: "Project Sample: Game of Life \u2013 With Music!"
 parent_type: CourseSection
 resourcetype: Image

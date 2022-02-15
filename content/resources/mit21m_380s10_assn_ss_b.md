@@ -4,6 +4,7 @@ description: 'This resource contains complete report. '
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010/0f8786ecdd527f69a018f7b38f592f0a_MIT21M_380S10_assn_ss_b.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Project Sample: Genetic Algorithms'
 parent_type: CourseSection
 resourcetype: Document

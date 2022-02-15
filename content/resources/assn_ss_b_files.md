@@ -4,6 +4,7 @@ description: 'This ZIP contains 2 .py files. '
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21m-380-music-and-technology-algorithmic-and-generative-music-spring-2010/f929be899a79c63f15c92d0fb49fa46d_assn_ss_b_files.zip
 file_type: application/zip
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Project Sample: Genetic Algorithms'
 parent_type: CourseSection
 resourcetype: Other
