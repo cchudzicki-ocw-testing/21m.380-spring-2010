@@ -24,4 +24,4 @@ I am pleased with the sounds in the piece, though they do move slowly. More scul
 
 Design Report 3 sample: Cat sounds source, PD generated
 
-Code file ([PD]({{< baseurl >}}/resources/assn3_a))
+Code file ({{< resource_link 2d1cc967-b575-4900-07c4-c08a85e8e973 "PD" >}})
