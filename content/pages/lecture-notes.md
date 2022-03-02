@@ -11,10 +11,10 @@ The course lecture notes are presented, one chapter per session, in the table be
 
 The following two files can be added to the individual chapters to produce a complete set of notes.
 
-*   Cover & Table of Contents ({{< resource_link 4ecb7f79-8a87-ba9e-0fbe-95f3b63697e1 "PDF" >}})
-*   References ({{< resource_link 5b647dd5-9901-1daa-3c1b-c62e0c65f928 "PDF" >}})
+*   Cover & Table of Contents ({{% resource_link 4ecb7f79-8a87-ba9e-0fbe-95f3b63697e1 "PDF" %}})
+*   References ({{% resource_link 5b647dd5-9901-1daa-3c1b-c62e0c65f928 "PDF" %}})
 
-The complete set of notes is compiled here as a single large file for ease of downloading ({{< resource_link db9cf51a-20db-bc9a-15b6-dc737f681138 "PDF - 11.8MB" >}}).
+The complete set of notes is compiled here as a single large file for ease of downloading ({{% resource_link db9cf51a-20db-bc9a-15b6-dc737f681138 "PDF - 11.8MB" %}}).
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -40,7 +40,7 @@ LECTURE NOTES
 Foundations: Algorithmic and generative music systems
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 1618a478-5bee-d4f6-c26b-cb847795f00e "PDF" >}})
+({{% resource_link 1618a478-5bee-d4f6-c26b-cb847795f00e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +52,7 @@ Foundations: Algorithmic and generative music systems
 Foundations: Musical parameters, mappings, and tools
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 5ef90e6f-c258-b0c1-9360-9dc1b62b19f4 "PDF" >}})
+({{% resource_link 5ef90e6f-c258-b0c1-9360-9dc1b62b19f4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +64,7 @@ Foundations: Musical parameters, mappings, and tools
 Approaches: Distributions and stochastics
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 81fdecbc-a189-c849-1dd8-bfca72130618 "PDF" >}})
+({{% resource_link 81fdecbc-a189-c849-1dd8-bfca72130618 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +76,7 @@ Approaches: Distributions and stochastics
 Foundations: Historical and categorical perspectives
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 4b320d6b-b490-8f40-ab7b-1d76866891f8 "PDF" >}})
+({{% resource_link 4b320d6b-b490-8f40-ab7b-1d76866891f8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +88,7 @@ Foundations: Historical and categorical perspectives
 History: Serialism, loops, tiling, and phasing
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link dd7d5657-39e3-e1e0-e3dc-c7cd70ec08fe "PDF" >}})
+({{% resource_link dd7d5657-39e3-e1e0-e3dc-c7cd70ec08fe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,7 +100,7 @@ History: Serialism, loops, tiling, and phasing
 Workshop
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 2554bea1-cb3f-52ea-bdb9-eb3f780874e2 "PDF" >}})
+({{% resource_link 2554bea1-cb3f-52ea-bdb9-eb3f780874e2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +112,7 @@ Workshop
 History: Michele Gottfried Koenig
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 20296227-925e-86d2-24f8-40cf36aa88b7 "PDF" >}})
+({{% resource_link 20296227-925e-86d2-24f8-40cf36aa88b7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +124,7 @@ History: Michele Gottfried Koenig
 Approaches: Permutations, generators, and chaos
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link a3f3b375-0b8f-ef34-5b8c-c0fbafbbe6c2 "PDF" >}})
+({{% resource_link a3f3b375-0b8f-ef34-5b8c-c0fbafbbe6c2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,7 +136,7 @@ Approaches: Permutations, generators, and chaos
 History: Lejaren Hiller
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link bb2f007b-321f-597a-12c1-075f7c24b92a "PDF" >}})
+({{% resource_link bb2f007b-321f-597a-12c1-075f7c24b92a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +148,7 @@ History: Lejaren Hiller
 Approaches: Probability and Markov chains
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 38978877-1410-8d3a-505e-0a1993bb5e82 "PDF - 1.3MB" >}})
+({{% resource_link 38978877-1410-8d3a-505e-0a1993bb5e82 "PDF - 1.3MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +160,7 @@ Approaches: Probability and Markov chains
 Workshop
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 74e61fdd-3349-bf07-918e-6ead3f36977b "PDF" >}})
+({{% resource_link 74e61fdd-3349-bf07-918e-6ead3f36977b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -172,7 +172,7 @@ Workshop
 History: Iannis Xenakis
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link f9ad2698-d230-b2eb-18f7-f4f419eb34ea "PDF" >}})
+({{% resource_link f9ad2698-d230-b2eb-18f7-f4f419eb34ea "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -184,7 +184,7 @@ History: Iannis Xenakis
 Approaches: Non-standard synthesis
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link a2cee3d4-33c1-3ac5-4176-4ac0c7802497 "PDF" >}})
+({{% resource_link a2cee3d4-33c1-3ac5-4176-4ac0c7802497 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -196,7 +196,7 @@ Approaches: Non-standard synthesis
 Approaches: Granular and concatenative synthesis
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 541e243d-0bb1-c412-6079-e62c3c722126 "PDF" >}})
+({{% resource_link 541e243d-0bb1-c412-6079-e62c3c722126 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -208,7 +208,7 @@ Approaches: Granular and concatenative synthesis
 Approaches: Mapping, sonification, and data bending
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 9eb5fd21-506e-3f45-2216-4b68f1687a90 "PDF" >}})
+({{% resource_link 9eb5fd21-506e-3f45-2216-4b68f1687a90 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -220,7 +220,7 @@ Approaches: Mapping, sonification, and data bending
 Workshop
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link c7669e59-1014-c6f1-67b0-a16f5572aa42 "PDF" >}})
+({{% resource_link c7669e59-1014-c6f1-67b0-a16f5572aa42 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -232,7 +232,7 @@ Workshop
 Approaches: Cellular automata
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 2f857cbe-cfaf-e828-0d73-b1571698872e "PDF" >}})
+({{% resource_link 2f857cbe-cfaf-e828-0d73-b1571698872e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -244,7 +244,7 @@ Approaches: Cellular automata
 Approaches: Genetic algorithms
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 3443a859-f188-8489-299d-1c9faa371209 "PDF" >}})
+({{% resource_link 3443a859-f188-8489-299d-1c9faa371209 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -256,7 +256,7 @@ Approaches: Genetic algorithms
 Approaches: Grammars and L-Systems
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link f1e2a1c3-7577-cafb-5304-9ec951924aea "PDF" >}})
+({{% resource_link f1e2a1c3-7577-cafb-5304-9ec951924aea "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -268,7 +268,7 @@ Approaches: Grammars and L-Systems
 History: Mechanical musical automata
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link abf3b19b-721b-0580-07a8-59c766850a73 "PDF - 2.9MB" >}})
+({{% resource_link abf3b19b-721b-0580-07a8-59c766850a73 "PDF - 2.9MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -280,7 +280,7 @@ History: Mechanical musical automata
 Workshop
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link b9a72d46-48b1-7170-6c2e-8fd13c8f8d70 "PDF" >}})
+({{% resource_link b9a72d46-48b1-7170-6c2e-8fd13c8f8d70 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -292,7 +292,7 @@ Workshop
 Approaches: Agents and ecological models
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link fdb26b7c-9f3a-0da1-659c-e2cf64328b9a "PDF" >}})
+({{% resource_link fdb26b7c-9f3a-0da1-659c-e2cf64328b9a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -304,7 +304,7 @@ Approaches: Agents and ecological models
 Approaches: Expert systems and style emulation
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 1ff0e7fa-673d-f263-8b9d-2d0c62b69462 "PDF" >}})
+({{% resource_link 1ff0e7fa-673d-f263-8b9d-2d0c62b69462 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -316,7 +316,7 @@ Approaches: Expert systems and style emulation
 Discussion: Aesthetics and evaluations
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 10a2af8b-ab8e-7a9f-663b-ad075f2288ee "PDF" >}})
+({{% resource_link 10a2af8b-ab8e-7a9f-663b-ad075f2288ee "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -328,7 +328,7 @@ Discussion: Aesthetics and evaluations
 Sonic system project presentations
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link bed359c7-cef6-fd56-05c4-8ac442a7398e "PDF" >}})
+({{% resource_link bed359c7-cef6-fd56-05c4-8ac442a7398e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

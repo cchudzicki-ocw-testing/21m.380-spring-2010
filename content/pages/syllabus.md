@@ -35,7 +35,7 @@ Objectives
 Required Texts
 --------------
 
-Readings for this class are comprised of various papers, articles, and book chapters. See the {{< resource_link 74745b64-4020-efa5-127c-d97d24b9218b "Readings and Listening" >}} page for a detailed list.
+Readings for this class are comprised of various papers, articles, and book chapters. See the {{% resource_link 74745b64-4020-efa5-127c-d97d24b9218b "Readings and Listening" %}} page for a detailed list.
 
 Required Digital Materials
 --------------------------
@@ -53,7 +53,7 @@ This course will use several free, cross-platform, stand-alone, or web-based app
 *   PureData
 *   SuperCollider
 
-Assignments, projects, and demonstrations may be facilitated by the use and installation of these software {{< resource_link 6e81c0bd-4e52-5a46-1f05-35f350963ca7 "tools" >}}.
+Assignments, projects, and demonstrations may be facilitated by the use and installation of these software {{% resource_link 6e81c0bd-4e52-5a46-1f05-35f350963ca7 "tools" %}}.
 
 Reference Materials
 -------------------

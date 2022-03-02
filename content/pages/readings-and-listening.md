@@ -83,7 +83,7 @@ Foundations: Historical and categorical perspectives
 
 Ames, C. "Automated Composition in Retrospect: 1956-1986." _Leonardo_ 20, no. 2 (1987): 169-185.
 
-Ariza, C. "Navigating the Landscape of Computer-Aided Algorithmic Composition Systems: A Definition, Seven Descriptors, and a Lexicon of Systems and Research." In _Proceedings of the International Computer Music Conference_, San Francisco, CA: International Computer Music Association, _2005_. 765-772. ({{< resource_link 0d5e3b2b-1270-74e9-c5bb-7fea1a783e31 "PDF" >}})
+Ariza, C. "Navigating the Landscape of Computer-Aided Algorithmic Composition Systems: A Definition, Seven Descriptors, and a Lexicon of Systems and Research." In _Proceedings of the International Computer Music Conference_, San Francisco, CA: International Computer Music Association, _2005_. 765-772. ({{% resource_link 0d5e3b2b-1270-74e9-c5bb-7fea1a783e31 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -221,7 +221,7 @@ Approaches: Probability and Markov chains
 
 Ames, C. "The Markov Process as a Compositional Model: A Survey and Tutorial." _Leonardo_ 22, no. 2 (1989): 175-187
 
-Ariza, C. "Beyond the Transition Matrix: A Language-Independent, String-Based Input Notation for Incomplete, Multiple-Order, Static Markov Transition Values." 2006. ({{< resource_link 2de9e6cf-7101-0ccf-2996-63076761a7fb "PDF" >}})
+Ariza, C. "Beyond the Transition Matrix: A Language-Independent, String-Based Input Notation for Incomplete, Multiple-Order, Static Markov Transition Values." 2006. ({{% resource_link 2de9e6cf-7101-0ccf-2996-63076761a7fb "PDF" %}})
 
 
 {{< tdclose >}}
