@@ -18,6 +18,6 @@ This is a Java™ applet based on the cellular automaton [Game of Life](http://e
 
 [Load the applet](/ans7870/21m/21m.380/S10/projects/life/gameoflifewithsound.html)
 
-{{< resource bbd6bf57-ef5b-c761-3af1-75b45590c400 "Image of a grid with several small groups of black filled-in squares." >}}
+{{< resource "bbd6bf57-ef5b-c761-3af1-75b45590c400" >}}
 
 Screenshot from Game of Life – With Music!
