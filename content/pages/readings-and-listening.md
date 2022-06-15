@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the readings and listening assignments for each
+  class session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

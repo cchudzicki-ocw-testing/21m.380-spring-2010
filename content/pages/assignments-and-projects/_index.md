@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section describes the musical design reports and sonic system project
+  required for the course, and includes sample student work.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Assignments and Projects

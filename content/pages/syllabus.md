@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, objectives, required texts, required digital materials,
+  reference materials, assignments, attendance and participation, quizzes and exams,
+  grading, policies for academic integrity, intellectual property, and plagiarism,
+  and the schedule of lecture topics, quizzes, and assignment due dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
